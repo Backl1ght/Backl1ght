@@ -4,4 +4,3 @@
 
 - C/C++/Java/Python
 - I’m currently learning Android/Linux and so on.
-- 
