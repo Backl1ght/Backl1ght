@@ -4,5 +4,5 @@
 
 <img align="right" alt="Backl1ght's top langs" width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Backl1ght&hide=typescript,css,html,c&layout=compact&langs_count=4">
 
-- :book: I’m currently learning Android/Linux and so on.
+- :book: I’m currently learning Android/Linux/FFmpeg and so on.
 - :balloon: My blog for Competitive Programming: [_Backl1ght随缘更新的博客](https://www.cnblogs.com/zengzk/)
